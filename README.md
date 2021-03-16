@@ -6,8 +6,8 @@ Welcome to my github profile.
 
 ![waydk github stats](https://github-readme-stats.vercel.app/api?username=waydk&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 #### You can find me here:
-[![telegram](https://img.shields.io/badge/-telegram-black?style=flat-square&logo=telegram)](https://t.me/waydk)
-[![instagram](https://img.shields.io/badge/-instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/wayd.vrn)
+[![telegram](https://cdn.icon-icons.com/icons2/2699/PNG/32/telegram_logo_icon_168692.png)](https://t.me/waydk)
+[![instagram](https://cdn.icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://www.instagram.com/wayd.vrn)
 
 
 
