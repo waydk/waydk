@@ -9,7 +9,7 @@ Welcome to my github profile.
 [![telegram](https://cdn.icon-icons.com/icons2/2699/PNG/32/telegram_logo_icon_168692.png)](https://t.me/waydk)
 [![instagram](https://cdn.icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://www.instagram.com/wayd.vrn)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=waydk)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaydk&count_bg=%23000000&title_bg=%23090000&icon=riseup.svg&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
