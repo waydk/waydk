@@ -1,8 +1,11 @@
-### Hi, my name is Kira 🍎
+![anime](https://pa1.narvii.com/6892/bccc725630c15c9ec19834be5c0616aab7dc28c9r1-500-216_hq.gif)
+
+### Hi, my name is Kira
 Welcome to my github profile.
+
 - I'm a novice 🐍 python developer
-- I'm currently learning OOP  and slowly making my telegram bot
-- I plan to become a web python developer in the future 🌐. 
+- Right now I'm learning ![html](https://img.icons8.com/color/28/4a90e2/html-5--v1.png) and ![css](https://img.icons8.com/color/28/4a90e2/css3.png) I'm also continuing to make telegram bots
+- On my way to becoming a web developer.![python](https://img.icons8.com/color/28/000000/python.png) ![internet](https://img.icons8.com/dusk/28/4a90e2/internet--v1.png)
 
 ![waydk github stats](https://github-readme-stats.vercel.app/api?username=waydk&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 #### You can find me here:
@@ -10,8 +13,7 @@ Welcome to my github profile.
 [![instagram](https://cdn.icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://www.instagram.com/wayd.vrn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaydk&count_bg=%23000000&title_bg=%23090000&icon=riseup.svg&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+![gif](https://media0.giphy.com/media/LPH6UygHUqTvF6XLQp/200w.webp?cid=ecf05e473mxcvrfaadr027hj1c4oegubzuljoed74mi4fwbe&rid=200w.webp)
 <!--
 **waydk/waydk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
