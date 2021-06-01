@@ -3,8 +3,8 @@
 ### Hi, my name is Kira
 Welcome to my github profile.
 
-- I'm a novice <a href="https://www.python.org/"><img src="https://emojis.slackmojis.com/emojis/images/1516924200/3438/python.gif?1516924200" alt="amongus-party" width="20px" height="20px"/></a> python developer
-- Right now I'm learning ![html](https://img.icons8.com/color/28/4a90e2/html-5--v1.png) and ![css](https://img.icons8.com/color/28/4a90e2/css3.png) I'm also continuing to make telegram bots <img src="https://emojis.slackmojis.com/emojis/images/1614375882/15260/robot_blue.gif?1614375882" alt="amongus-party" width="30px" height="30px"/>
+- I'm a novice  python developer
+- Right now I'm learning html and css I'm also continuing to make telegram bots <img src="https://emojis.slackmojis.com/emojis/images/1614375882/15260/robot_blue.gif?1614375882" alt="amongus-party" width="30px" height="30px"/>
 - On my way to becoming a web developer.![python](https://img.icons8.com/color/28/000000/python.png) ![internet](https://img.icons8.com/dusk/28/4a90e2/internet--v1.png)<img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" alt="amongus-party" width="30px" height="30px"/>
 
 ![waydk github stats](https://github-readme-stats.vercel.app/api?username=waydk&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
