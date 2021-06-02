@@ -4,12 +4,11 @@
 Welcome to my github profile.
 
 - I'm a novice  python developer
-- Right now I'm learning html and css I'm also continuing to make telegram bots <img src="https://emojis.slackmojis.com/emojis/images/1614375882/15260/robot_blue.gif?1614375882" alt="amongus-party" width="30px" height="30px"/>
-- On my way to becoming a web developer.![python](https://img.icons8.com/color/28/000000/python.png) ![internet](https://img.icons8.com/dusk/28/4a90e2/internet--v1.png)<img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" alt="amongus-party" width="30px" height="30px"/>
+- Right now I'm learning html and css I'm also continuing to make telegram bots 
+- On my way to becoming a web developer
 
 ![waydk github stats](https://github-readme-stats.vercel.app/api?username=waydk&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 #### You can find me here:
-![lol](https://emojis.slackmojis.com/emojis/images/1614820150/16754/jack_sparrow.gif?1614820150)
 [![telegram](https://cdn.icon-icons.com/icons2/2699/PNG/32/telegram_logo_icon_168692.png)](https://t.me/waydk)
 [![instagram](https://cdn.icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://www.instagram.com/wayd.vrn)
 
