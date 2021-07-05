@@ -1,4 +1,4 @@
-![anime](https://pa1.narvii.com/6892/bccc725630c15c9ec19834be5c0616aab7dc28c9r1-500-216_hq.gif)
+![anime](https://i.pinimg.com/originals/8c/01/25/8c01250cd148c82580ceb5b7603b9db6.gif)
 
 ### Hi, my name is Kira
 Welcome to my github profile.
