@@ -9,8 +9,8 @@ Welcome to my github profile.
 
 ![waydk github stats](https://github-readme-stats.vercel.app/api?username=waydk&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 #### You can find me here:
-[![telegram](https://cdn.icon-icons.com/icons2/2699/PNG/32/telegram_logo_icon_168692.png)](https://t.me/waydk)
-[![instagram](https://cdn.icon-icons.com/icons2/1753/PNG/32/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://www.instagram.com/wayd.vrn)
+<a href="https://t.me/waydk" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2807/PNG/512/telegram_icon_178920.png" width="60"></a>
+<a href="https://www.instagram.com/wayd.vrn/" target="_blank"><img src="https://user-images.githubusercontent.com/77948380/124592735-6fe15180-de66-11eb-82ea-d34a19afe880.png" width="60"></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaydk&count_bg=%23000000&title_bg=%23090000&icon=riseup.svg&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 ![gif](https://media0.giphy.com/media/LPH6UygHUqTvF6XLQp/200w.webp?cid=ecf05e473mxcvrfaadr027hj1c4oegubzuljoed74mi4fwbe&rid=200w.webp)
