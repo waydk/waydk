@@ -1,4 +1,4 @@
-![anime](https://i.pinimg.com/originals/8c/01/25/8c01250cd148c82580ceb5b7603b9db6.gif)
+![anime](https://i.pinimg.com/originals/70/b0/40/70b040cdc3356cfb8c15dfad0650a24e.gif)
 
 ### Hi, my name is Kira
 Welcome to my github profile.
