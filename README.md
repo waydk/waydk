@@ -25,6 +25,7 @@ Welcome to my github profile.
 <img align="left" alt="GITLAB" width="26px" src="https://img.icons8.com/color/48/000000/gitlab.png"/>
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img align="left" alt="DOCKER" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" alt="FLASK" width="26px" src="https://img.icons8.com/color/48/000000/flask.png"/>
 <br>
 <hr>
 
