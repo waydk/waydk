@@ -25,7 +25,8 @@ Welcome to my github profile.
 <img align="left" alt="GITLAB" width="26px" src="https://img.icons8.com/color/48/000000/gitlab.png"/>
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img align="left" alt="DOCKER" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" alt="FLASK" width="26px" src="https://img.icons8.com/color/48/000000/flask.png"/>
+<img align="left" alt="FLASK" width="26px" src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png"/>
+<img align="left" alt="BOOTSTRAP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"/>
 <br>
 <hr>
 
