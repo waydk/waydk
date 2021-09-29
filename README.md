@@ -1,4 +1,4 @@
-<img src="assets/yoriichi.gif" alt="yoriichi" width="380"/>
+
 
 ## Hi, my name is Kira
 Welcome to my github profile.
