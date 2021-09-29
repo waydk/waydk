@@ -1,5 +1,4 @@
-![yoriichi](http://pa1.narvii.com/7388/4a9484f811f1c4595c76b7053f1beb10233fd116r1-600-338_00.gif)
-
+<img src="assets/yoriichi.gif" alt="yoriichi" width="380"/>
 
 ## Hi, my name is Kira
 Welcome to my github profile.
