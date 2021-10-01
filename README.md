@@ -5,7 +5,7 @@
 
 Welcome to my github profile.
 
-<img alt="levi" width="830px" height="220px" src="https://i.pinimg.com/originals/fb/82/f4/fb82f4512599ffe6de89c3c1704b8de8.jpg"/>
+<img alt="levi" width="830px" height="220px" src="https://64.media.tumblr.com/6835fa6675f2c74bf2c0a13bbd859c5c/tumblr_p4bh85X1dE1wpx51ho8_1280.jpg"/>
 
 
 ### About me:
@@ -19,7 +19,7 @@ Welcome to my github profile.
 - I want to improve my portfolio site
 - And set up store on flask or Django
 
-
+<!-- 
 ## My activity
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waydk&theme=radical" alt="waydk" /></a> </p>
 
@@ -51,7 +51,7 @@ Welcome to my github profile.
 <a href="https://t.me/waydk"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="50px"></a>
 <a href="https://www.instagram.com/wayd.vrn/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50px"></a><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaydk&count_bg=%23000000&title_bg=%23090000&icon=riseup.svg&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaydk&count_bg=%23000000&title_bg=%23090000&icon=riseup.svg&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!--
 **waydk/waydk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
