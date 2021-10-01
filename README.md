@@ -1,22 +1,35 @@
 
+## Hi, my name is Kira 
+*(it's my nickname)*
 
-## Hi, my name is Kira
+
 Welcome to my github profile.
 
+<img alt="levi" width="830px" height="220px" src="https://i.pinimg.com/originals/fb/82/f4/fb82f4512599ffe6de89c3c1704b8de8.jpg"/>
+
+
+### About me:
+- Python junior developer
+- I started studying Python as a hobby, but now I'm sure I want to turn it into a profession
+- Aimed at the backend (Studying Django and Django rest frameworks)
+- I try to learn every day
+
+### What I'm doing now
+- Now I plan to create a blog in Django, using Postgresql as a database and Bootstrap for the frontend
+- I want to improve my portfolio site
+- And set up store on flask or Django
+
+
+## My activity
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waydk&theme=radical" alt="waydk" /></a> </p>
 
 ![codewars](https://www.codewars.com/users/wayd.k/badges/large)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waydk&theme=dark)](https://git.io/streak-stats)
 
-## I'm studying now.
-- I'm a python trainee
-- My goal is to become a python backend developer
-- I am currently learning the flask web framework.
-
 ![waydk github stats](https://github-readme-stats.vercel.app/api?username=waydk&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 
-### Languages and Tools: 🔧
+## Languages and Tools: 🔧
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
