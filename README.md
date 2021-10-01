@@ -5,6 +5,8 @@ Welcome to my github profile.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waydk&theme=radical" alt="waydk" /></a> </p>
 
+![codewars](https://www.codewars.com/users/wayd.k/badges/large)
+
 ## I'm studying now.
 - I'm a python trainee
 - My goal is to become a python backend developer
