@@ -5,8 +5,9 @@
 
 Welcome to my github profile.
 
-<img alt="levi" width="830px" height="220px" src="https://64.media.tumblr.com/6835fa6675f2c74bf2c0a13bbd859c5c/tumblr_p4bh85X1dE1wpx51ho8_1280.jpg"/>
-
+<p align="center">
+  <img alt="levi" width="830px" height="220px" src="https://64.media.tumblr.com/6835fa6675f2c74bf2c0a13bbd859c5c/tumblr_p4bh85X1dE1wpx51ho8_1280.jpg"/>
+</p>
 
 ### About me:
 - Python junior developer
@@ -19,8 +20,11 @@ Welcome to my github profile.
 - I want to improve my portfolio site
 - And set up store on flask or Django
 
-<!-- 
 ## My activity
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=waydk&theme=dark">
+</p>
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waydk&theme=radical" alt="waydk" /></a> </p>
 
 ![codewars](https://www.codewars.com/users/wayd.k/badges/large)
