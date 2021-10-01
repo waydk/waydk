@@ -7,6 +7,8 @@ Welcome to my github profile.
 
 ![codewars](https://www.codewars.com/users/wayd.k/badges/large)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waydk&theme=dark)](https://git.io/streak-stats)
+
 ## I'm studying now.
 - I'm a python trainee
 - My goal is to become a python backend developer
