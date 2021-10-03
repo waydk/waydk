@@ -61,6 +61,8 @@ and I also play the guitar a little bit</p>
   <img alt="BOOTSTRAP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"/>
   <img alt="FLASK" width="26px" src="https://img.icons8.com/nolan/50/flask.png"/>
   <img alt="DJANGO" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img alt="HEROKU" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+  <img alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </div>
 
 <!--
