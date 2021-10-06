@@ -54,6 +54,7 @@ and I also play the guitar a little bit</p>
   <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   <img alt="POSTGRESQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img alt="PYTHON" width="26px"src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img alt="JS" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img alt="GIT" width="26px"src="https://img.icons8.com/color/48/000000/git.png"/>
   <img alt="GITHUB" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png"/>
   <img alt="GITLAB" width="26px" src="https://img.icons8.com/color/48/000000/gitlab.png"/>
