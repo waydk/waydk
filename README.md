@@ -2,11 +2,8 @@
 ## Hi, my name is Kira 
 *(it's my nickname)*
 
-#### Welcome to my github profile.
+<img alt="HEADER" width="400px" src="https://user-images.githubusercontent.com/77948380/136919045-566cb29f-8d37-4f80-a987-cc19b07ee505.png"/>
 
-<div align="center">
-  <img alt="HEADER" width="830px" height="220px" src="https://64.media.tumblr.com/6835fa6675f2c74bf2c0a13bbd859c5c/tumblr_p4bh85X1dE1wpx51ho8_1280.jpg"/>
-</div>
 
 ## About me:
 - Python junior developer
