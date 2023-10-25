@@ -2,7 +2,6 @@
 ## Hi, my name is Kira 
 *(it's my nickname)*
 
-<img alt="HEADER" width="400px" src="https://user-images.githubusercontent.com/77948380/136919045-566cb29f-8d37-4f80-a987-cc19b07ee505.png"/>
 
 
 ## About me:
