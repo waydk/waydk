@@ -1,22 +1,9 @@
 
-## Hi, my name is Kira 
-*(it's my nickname)*
 
 
 
-## About me:
-- Python junior developer
-- I started studying Python as a hobby, but now<br>
-I'm sure I want to turn it into a profession
-- Aimed at the backend<br>
-> (Studying Django and Django rest frameworks)
-- I try to learn every day
 
-## What I'm doing now
-- Now I plan to create a blog in Django, using Postgresql<br>
-as a database and Bootstrap for the frontend
-- I want to improve my portfolio site
-- And set up store on flask or Django
+
 
 ## What languages I am currently learning
 - Python
@@ -26,10 +13,6 @@ as a database and Bootstrap for the frontend
 ## What I do besides programming
 ```python
 print('I like to eat and sleep')
-```
-<p>I like to read books, especially Haruki Murakami<br>
-I like listening to music, I like to cook something unusual<br>
-and I also play the guitar a little bit</p>
 
 ## How to contact me
 <div align="center">
@@ -38,10 +21,6 @@ and I also play the guitar a little bit</p>
    <a href="waydk.note@gmail.com"><img width="45px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </div>
 
-<div align="center">
-  <h2>My activity</h2>
-  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=waydk&theme=dark">
-</div>
 
 <div align="center">
   <h2>Languages and Tools:</h2>
